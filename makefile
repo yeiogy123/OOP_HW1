@@ -1,0 +1,5 @@
+all:HW01_407235049.cpp
+	g++ HW01_407235049.cpp -o HW01_407235049.out
+clean:
+	rm -f HW01_407235049.out
+
